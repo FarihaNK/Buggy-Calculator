@@ -1,0 +1,30 @@
+.titlediv {text-align: center;}
+.title {color: red;}
+.button1 {color: blue;}
+.box{
+  width:300px;
+  height:400px;
+  border:5px solid black;
+  margin:20px;
+  padding:10px;
+}
+.numbermatrice {
+  border:5px solid black;
+  display: flex;
+  flex-direction: column;
+}
+.numbersdiv {
+  display: flex;
+  justify-content: center;
+}
+.button1{
+  padding:10px;
+  margin:10px;
+}
+.typerdiv{
+  text-align: right;
+  height:10px;
+  border:5px solid black;
+  margin:20px;
+  padding:10px;
+}
